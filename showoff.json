@@ -1,0 +1,10 @@
+{ "name": "The Open Source Business", 
+  "sections": [ 
+    {"section":"title"},
+    {"section":"about_us"},
+    {"section":"purpose"},
+    {"section":"os_development"},
+    {"section":"support"},
+    {"section":"final"} 
+  ]
+}

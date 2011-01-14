@@ -1,0 +1,120 @@
+the open source business
+
+what are we here for?
+  to learn how to work better, be more efficient
+  - we will go back to our jobs saying 'i learned X,
+    we should consider trying it to make development
+    faster or easier' - which is great
+  however, we always focus on software, or hardware
+  i rarely hear talks focusing on developers themselves,
+   on how teams work together.  yet this is probably the
+   most important and easily changeable variable with 
+   likely the biggest long term impact. changing how a 
+   team works is far more important that what testing
+   framework they use or what no-sql database they switch to
+  something about agile methods or scrum, etc, but thats it
+  but scrum may not be the best option
+  think of some of the most successful software projects
+   you know of - the ones you use day to day - open source
+   the were not developed with scrum, there were no burndown
+   charts involved in the linux kernel, no stand-up meetings
+   shaping the apache webserver or the ruby language.
+   they were driven largely by the self-directed passion of 
+   individual developers.  they were shaped by a love of the
+   craft, a love of the problem
+  so, instead of talking about test driven development or
+   behavior driven development, i'm going to talk about 
+   developer driven development.  i'm going to argue that 
+   focusing on the developer and making their working 
+   environment as autonomous as possible is the best tool
+   you can enact to get the most out of your software team.
+   
+what is developer driven development
+  - autonomy
+    - everyone chooses what they want to work on
+  - power/responsibility
+    - all developers can commit
+    - all developers can deploy
+  - no meetings
+  - no feature requests / backlog
+  - no roadmap
+  - offline communication (campfire, backlog)
+  - free beer
+
+advantages
+  - great throughput
+    - way less overhead
+    - everyone is interested in what they're doing 
+      - they choose it
+  - results in good products
+  - very agile
+  - employees love it, better retention
+    (recruiting is very expensive)
+    - more flexible
+    - always working on something they want
+    - more skin in the game
+      - not a cog, feel more involved/important/central
+
+pre-requisites
+  - own your product - client work probably wouldn't work well
+      (unless you have special relationships with the clients)
+  - no deadlines - again, clients can't tell you when they need something
+  - passionate developers
+    - have to love what they're working on
+    - have to be self driven, can work with no specific direction
+  - great communication
+    - devs have to talk to each other a lot, in many different ways
+      - chat, email, in-person, drinking
+  - respect
+    - people in the team have to listen to and respect each other, even
+      if they disagree. they have to be persuadable and rational. assholes
+      aren't good at DDD, because you're focusing on an asshole.
+  - smallish teams
+    - up to 20 still works fine
+    - larger companies do multiple small teams that this could work for
+    - or, gatekeepers that facilitate communication (like an OS
+      maintainer) - not a manager
+  - best if the team can use the product
+    - open source teams always use their product, so they know 
+      the pain points
+  - however, every company I've worked for has met these requirements,
+    but only GitHub does dev this way.  everywhere else had layers of
+    management and was more poorly run with poorer quality output
+
+How GitHub works
+  - the story? how we started, built our team
+  - every decision comes down to not "was this done at our last job", but
+    instead "do we really need this?" (management, structure, roadmap)
+  - other stuff we've never done because we've always hated them (meetings)
+  - less is easier - pure laziness and not wanting to be a manager on our part
+    - when no "managers" or "executives" are brought in, it takes a while to
+      realize that they are not always necessary to make a business work 
+      - we're still waiting for the day when we wish we had one
+      - not saying it's never useful, i'm saying we've never missed not having
+  - we got an office 8 months ago, but it's simply a resource
+  - all devs make the same, CEO/board to new hire - we raised the base once 
+    right after an employee was hired, giving them a 30% raise after a week
+  - we continue to roll with the punches, changing policy only when it's
+    been made clear that it HAS to.  so what i'm presenting is the business
+    of development minimalism, but it turns out that it works quite well.
+
+Support
+  - Open Source
+  - Drive
+  - ROWE
+
+hiring developer driven developers
+  - just about any developer likes a more open schedule, so that's
+  implementable anywhere, but to get the most out of the system, you have to
+  have passionate developers.
+  use open source to hire
+  - look for committers
+  - hire committers to your OS projects
+  - passion for development
+  if everyone at github were independently wealthy, we would probably all be
+  doing largely the same things. hire for that.  not necessarily who is 
+  absolutely the best, but who loves it the most.  don't hire assholes.
+  don't hire developers who think they're better than everyone, even if they
+  are.  hire people who code on the weekends, people who bring their laptops
+  on vacation - people who you can't stop from coding.  then let them loose.
+

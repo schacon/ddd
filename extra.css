@@ -1,0 +1,24 @@
+.list {
+  font-size: 30px;
+}
+
+table.listtb tr td {
+  padding: 40px;
+  font-family: monospace;
+}
+
+h2 {
+  color: #33f;
+}
+
+.tinybullet ul li {
+  font-size: 34px;
+}
+
+.supersection {
+  background: #448;
+  padding-top: 200px;
+  color: #fff;
+  height: 100%;
+  font-size: 1.8em;
+}
